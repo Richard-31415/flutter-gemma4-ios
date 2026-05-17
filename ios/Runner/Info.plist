@@ -8,6 +8,8 @@
 	<true/>
 	<key>NSLocalNetworkUsageDescription</key>
 	<string>Local network access for model inference services.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Records your voice locally to send as audio input to the on-device Gemma 4 model. No audio leaves this device.</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
